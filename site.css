@@ -1,0 +1,23 @@
+body {
+    background-color: 	#ffdab9;
+}
+article {
+    width: 800px;
+    border: 15px;
+    padding-left: 600px;
+    padding-top: 10px;
+    margin: 20px;
+
+}
+b { 
+    margin: 10px;
+}
+.afiyet {
+    padding-left: 500px;
+    width: 800px;
+}
+h3 {
+    width: 420px;
+    border-radius: 4cm;
+    background-color: rgb(228, 160, 71);
+}
